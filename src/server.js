@@ -19,7 +19,6 @@ server.get("/", function(req, res) {
 
         res.render('src/index.html', { donors });
     })
-
 })
 
 server.post("/", function(req, res) {
