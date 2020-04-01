@@ -23,7 +23,7 @@
 
 <div align="center">
 
-<a href="https://insomnia.rest/run/?label=be-the-hero&uri=https%3A%2F%2Fraw.githubusercontent.com%2Ffelsantiago%2Fbe-the-hero%2Fmaster%2FInsomnia_Be_The_Hero.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia" width="90px"></a>
+<a href="https://insomnia.rest/run/?label=doe-maratona-dev&uri=https%3A%2F%2Fraw.githubusercontent.com%2Ffelsantiago%2Fdoe-maratona-dev-3%2Fmaster%2Finsonmia-doe-maratona-dev.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia" width="90px"></a>
 [![Netlify Status](https://api.netlify.com/api/v1/badges/0edbe6eb-b04a-4d61-aee9-35d2684d0423/deploy-status)](https://app.netlify.com/sites/heuristic-neumann-9d1978/deploys)
 
 </div>
