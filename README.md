@@ -31,10 +31,6 @@
     <img alt="Doe - Maratona Dev" src=".github/doe-logo.png"  width="100px" style="border-radius:5px;"/>
 </h1>
 
-<p align="center">
-  Teste agora mesmo: <a href="https://doe-maratona-dev.herokuapp.com/">Doe - Maratona Dev - Demo</a>
-</p>
-
 ## :book: Sobre o projeto
 
 <p> Este foi um projeto desenvolvido nos dias 17 e 18 de Fevereiro de 2020 na MaratonaDev da Rocketseat, sendo em sua terceira edição. Ele ocorreu de forma gratuita e com
