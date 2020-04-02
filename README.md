@@ -24,7 +24,6 @@
 <div align="center">
 
 <a href="https://insomnia.rest/run/?label=doe-maratona-dev&uri=https%3A%2F%2Fraw.githubusercontent.com%2Ffelsantiago%2Fdoe-maratona-dev-3%2Fmaster%2Finsonmia-doe-maratona-dev.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia" width="90px"></a>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/0edbe6eb-b04a-4d61-aee9-35d2684d0423/deploy-status)](https://app.netlify.com/sites/heuristic-neumann-9d1978/deploys)
 
 </div>
 
@@ -33,7 +32,7 @@
 </h1>
 
 <p align="center">
-  Teste agora mesmo: <a href="https://5e82dac92bd030000806ad0a--heuristic-neumann-9d1978.netlify.com/">Doe - Maratona Dev - Demo</a>
+  Teste agora mesmo: <a href="https://doe-maratona-dev.herokuapp.com/">Doe - Maratona Dev - Demo</a>
 </p>
 
 ## :book: Sobre o projeto
